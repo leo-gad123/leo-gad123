@@ -52,9 +52,9 @@ You can add an animated GIF or SVG showing your workflow, demo, or a short clip 
 
 [![GitHub Follow](https://img.shields.io/badge/Follow-@leo--gad123-181717?style=for-the-badge&logo=github)](https://github.com/leo-gad123)
 
-[![Twitter](https://img.shields.io/badge/Twitter-@leo--gad123-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/leo-gad123)
+[![Twitter](https://img.shields.io/badge/Twitter-@leo--gad123-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/leo-gad)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/leo-gad123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/leogad hakizimana)
 
 ---
 
