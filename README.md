@@ -1,10 +1,5 @@
 <!-- 💫 Animated Stylish GitHub Profile README for leo-gad123 -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1500&color=00F5D4&center=true&vCenter=true&repeat=false&width=800&lines=Hey+There!+👋;I'm+Leogad+Hakizimana;Embedded+Systems+Engineer;IoT+%7C+AI+%7C+ML+Enthusiast" alt="Typing SVG">
-</h1>
-
----
+![Animated Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2000&color=2b6cb0&background=ffffff00&width=800&lines=Hi!+I'm+Leogad+Hakizimana.;Embedded+Systems+•+IoT+•+ML+Learner;Artificial+intelligence+Enthusiast) > ✨ A short status about my GitHub: *active projects, experiments, and learning streaks — all in public.* ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leo-gad123&label=👀+Profile+Visits&color=00F5D4&style=for-the-badge" alt="Profile view counter" />
