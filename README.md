@@ -58,30 +58,4 @@ You can add an animated GIF or SVG showing your workflow, demo, or a short clip 
 
 ---
 
-## 🧭 Animated Gradient Header (SVG)
-
-```html
-<svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#06b6d4">
-        <animate attributeName="stop-color" values="#06b6d4;#7c3aed;#ef4444;#06b6d4" dur="8s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#7c3aed">
-        <animate attributeName="stop-color" values="#7c3aed;#ef4444;#06b6d4;#7c3aed" dur="8s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#g)" rx="8"/>
-  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="Fira Code, monospace" font-size="28" fill="#ffffff">Leo Gad — Active Developer</text>
-</svg>
-```
-
----
-
-## 🎯 Final tips
-
-- Keep the README concise — use sections to surface the most important info.
-- Use badges & live stats sparingly to avoid clutter.
-- Update the "Current status" weekly so visitors know you're active.
 
