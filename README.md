@@ -1,5 +1,5 @@
 
-![Animated Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2000&color=2b6cb0&background=ffffff00&width=800&lines=Hi!+I'm+Leo+Gad.;Embedded+Systems+•+IoT+•+ML+Learner;Open+Source+Enthusiast)
+![Animated Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2000&color=2b6cb0&background=ffffff00&width=800&lines=Hi!+I'm+Leogad+Hakizimana.;Embedded+Systems+•+IoT+•+ML+Learner;Artificial+intelligence+Enthusiast)
 
 > ✨ A short status about my GitHub: *active projects, experiments, and learning streaks — all in public.*
 
