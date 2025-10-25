@@ -1,5 +1,7 @@
 <!-- 💫 Animated Stylish GitHub Profile README for leo-gad123 -->
-![Animated Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2000&color=2b6cb0&background=ffffff00&width=800&lines=Hi!+I'm+Leogad+Hakizimana.;Embedded+Systems+•+IoT+•+ML+Developer;Artificial+intelligence+Enthusiast) > 
+![Animated Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2000&color=2b6cb0&background=ffffff00&width=800&lines=Hi!+I'm+Leogad+Hakizimana.;Embedded+Systems+•+IoT+•+ML+Developer;Artificial+intelligence+Enthusiast) 
+
+
 ✨ A short status about my GitHub: *active projects, experiments, and learning streaks — all in public.* ---
 
 <p align="left">
