@@ -1,7 +1,7 @@
 <!-- 💫 Animated Stylish GitHub Profile README for leo-gad123 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1500&color=00F5D4&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Leogad+Hakizimana;Embedded+Systems+Engineer;IoT+%7C+AI+%7C+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1500&color=00F5D4&center=true&vCenter=true&repeat=false&width=800&lines=Hey+There!+👋;I'm+Leogad+Hakizimana;Embedded+Systems+Engineer;IoT+%7C+AI+%7C+ML+Enthusiast" alt="Typing SVG">
 </h1>
 
 ---
@@ -56,13 +56,13 @@
 ## ⚡ Fun Animation
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=00F5D4&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+💙;Keep+learning%2C+Keep+building!;Stay+curious+and+innovative+🚀" alt="Footer Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=00F5D4&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+💙;Keep+learning,+Keep+building!;Stay+curious+and+innovative+🚀" alt="Footer Animation" />
 </p>
 
 ---
