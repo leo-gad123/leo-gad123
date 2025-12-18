@@ -15,7 +15,7 @@
 💡 Passionate about **Embedded Systems**, **Internet of Things (IoT)**, and **Machine Learning**.  
 ⚙️ I love connecting hardware with intelligence to build real-world solutions.  
 🌍 Exploring how AI can enhance embedded tech for smart devices.  
-🎯 Currently learning: **Deep Learning** & **Computer Vision**  
+🎯 Specialist in : **Machine Learning** & **Computer Vision**  
 💬 Ask me about **C/C++**, **Python**, **Arduino**, **ESP32**, or **TensorFlow Lite**.  
 
 ---
