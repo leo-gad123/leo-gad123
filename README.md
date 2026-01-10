@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-💡 Passionate about **Embedded Systems**, **Internet of Things (IoT)**, and **Machine Learning**.  
+💡 Passionate about **Embedded Systems**, **Internet of Things (IoT)**, and **Machine Learning**, **Computer Vision**.  
 ⚙️ I love connecting hardware with intelligence to build real-world solutions.  
 🌍 Exploring how AI can enhance embedded tech for smart devices.  
 🎯 Specialist in : **Machine Learning** & **Computer Vision**  
