@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-💡 Passionate about **Embedded Systems**, **Internet of Things (IoT)**, and **Machine Learning**, **Computer Vision**.  
+💡 Passionate about **Embedded Systems**, **Internet of Things (IoT)**, and **Machine Learning**, **Computer Vision**,Artificial Intelligent.  
 ⚙️ I love connecting hardware with intelligence to build real-world solutions.  
 🌍 Exploring how AI can enhance embedded tech for smart devices.  
 🎯 Specialist in : **Machine Learning** & **Computer Vision**  
@@ -46,7 +46,7 @@
 <p align="center">
   <a href="mailto:hakizimanaleogad@gmail.com"><img src="https://img.shields.io/badge/Email-00F5D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/leo-gad123/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leogad.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://leogad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
