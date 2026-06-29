@@ -1,66 +1,153 @@
-<!-- 💫 Animated Stylish GitHub Profile README for leo-gad123 -->
-![Animated Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2000&color=2b6cb0&background=ffffff00&width=800&lines=Hi!+I'm+Leogad+Hakizimana.;Embedded+Systems+•+IoT+•+ML+Developer;Artificial+intelligence+Computer+Vision) 
-
-
-✨ A short status about my GitHub: *active projects, experiments, and learning streaks — all in public.* ---
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=leo-gad123&label=👀+Profile+Visits&color=00F5D4&style=for-the-badge" alt="Profile view counter" />
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=2000&color=2563EB&center=true&vCenter=true&width=850&lines=Hakizimana+Leogad;Embedded+Systems+Engineer;IoT+%7C+Machine+Learning+%7C+Computer+Vision;Building+Intelligent+Hardware+Solutions" />
 </p>
 
----
-
-## 🧠 About Me
-
-💡 Passionate about **Embedded Systems**, **Internet of Things (IoT)**, and **Machine Learning**, **Computer Vision**,Artificial Intelligent.  
-⚙️ I love connecting hardware with intelligence to build real-world solutions.  
-🌍 Exploring how AI can enhance embedded tech for smart devices.  
-🎯 Specialist in : **Machine Learning** & **Computer Vision**  
-💬 Ask me about **C/C++**, **Python**, **Arduino**, **ESP32**, or **TensorFlow Lite**.  
-
----
-
-## 🧰 Tech Stack
+<h1 align="center">Hi, I'm Hakizimana Leogad 👋</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,tensorflow,arduino,raspberrypi,linux,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leo-gad123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leo-gad123&theme=tokyonight&hide_border=true&background=0d1117" height="160px" />
+Embedded Systems Engineer • IoT Developer • Machine Learning Enthusiast • Computer Vision
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leo-gad123&bg_color=0d1117&color=00F5D4&line=00F5D4&point=FFFFFF&hide_border=true" />
+Building intelligent embedded solutions that connect the physical and digital worlds.
 </p>
-
----
-
-## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:hakizimanaleogad@gmail.com"><img src="https://img.shields.io/badge/Email-00F5D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/leo-gad123/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leogad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=leo-gad123&label=Profile%20Views&color=2563EB&style=flat-square"/>
 </p>
 
 ---
 
-## ⚡ Fun Animation
+# About Me
+
+I'm an **Embedded Systems Developer** passionate about designing intelligent hardware and IoT systems powered by Artificial Intelligence.
+
+My interests include:
+
+- Embedded Systems Development
+- Internet of Things (IoT)
+- Machine Learning
+- Computer Vision
+- Edge AI & TinyML
+- Robotics & Automation
+
+I enjoy developing solutions that combine electronics, software, and AI to solve real-world problems.
+
+---
+
+# Technical Skills
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
+
+### Embedded Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+- ESP32
+- STM32 (Learning)
+- Arduino
+- Raspberry Pi
+
+### AI & Machine Learning
+
+- TensorFlow Lite
+- OpenCV
+- Computer Vision
+- TinyML
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+---
+
+# Current Focus
+
+- Embedded AI
+- TinyML on ESP32
+- Intelligent IoT Systems
+- Computer Vision Applications
+- Robotics
+
+---
+
+# Featured Projects
+
+Here are some of the projects I'm currently building:
+
+- Smart Attendance System
+- QR-Based E-Bus Ticketing System
+- AI-Powered Computer Vision Applications
+- IoT Monitoring Systems
+- Embedded Machine Learning Projects
+
+---
+
+# GitHub Statistics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=leo-gad123&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=leo-gad123&theme=github-dark-blue&hide_border=true"/>
+
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-gad123&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leo-gad123&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="mailto:hakizimanaleogad@gmail.com">
+<img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/leo-gad123/">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://prof.hakizimanaleogad.workers.dev/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# Philosophy
+
+> *"Technology becomes truly impactful when intelligent software meets reliable hardware."*
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=00F5D4&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+💙;Keep+learning,+Keep+building!;Stay+curious+and+innovative+🚀" alt="Footer Animation" />
+Thanks for visiting my profile.
+<br>
+Let's build the future together.
 </p>
-
----
